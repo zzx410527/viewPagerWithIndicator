@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewPagerWithIndicator">
+
+
+        <attr name="round.size" format="dimension|reference" />
+        <attr name="round.drawable" format="reference"/>
+        <attr name="round.color.default" format="color|reference"/>
+        <attr name="round.color.selected" format="color|reference"/>
+        <attr name="round.margin_top" format="dimension|reference"/>
+    </declare-styleable>
+
+
+</resources>
